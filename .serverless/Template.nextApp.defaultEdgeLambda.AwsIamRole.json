@@ -1,0 +1,12 @@
+{
+  "name": "7pbe02-tzi05f5",
+  "arn": "arn:aws:iam::471155685112:role/7pbe02-tzi05f5",
+  "service": [
+    "lambda.amazonaws.com",
+    "edgelambda.amazonaws.com"
+  ],
+  "policy": {
+    "arn": "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+  },
+  "region": "us-east-1"
+}
